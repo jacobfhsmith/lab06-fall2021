@@ -1,0 +1,42 @@
+---
+title: "Lab 06: Simulation-based inference"
+author: "[TEAM MEMBERS]"
+date: "October 15, 2021"
+output: 
+  pdf_document:
+    fig_height: 3
+    fig_width: 5
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(message  = FALSE, 
+                      warning = FALSE)
+```
+
+```{r load-packages}
+# add code to load packages
+```
+
+```{r load-data}
+# add code to load data
+```
+
+## Exercise 1
+
+
+## Exercise 2
+
+
+## Exercise 3
+
+
+## Exercise 4
+
+
+## Exercise 5
+
+
+## Exercise 6
+
+
+## Exercise 7
